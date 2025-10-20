@@ -1,0 +1,5 @@
+#Este documento sirve para dejar un registro de las consideraciones y análisis del classification task
+
+#00_EDA (Exploratory Data Analysis)
+- La exploración se hace sobre el panel resultante del Matching_Task. 
+
