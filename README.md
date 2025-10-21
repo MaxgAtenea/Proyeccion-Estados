@@ -3,7 +3,7 @@
 Esta tabla define los **formatos estándar de commits** para mantener trazabilidad y claridad en el repositorio.  
 Cada commit debe reflejar el propósito del cambio, siguiendo la estructura:
 
-<tipo>: <resumen ejecutivo breve>
+tipo: resumen breve
 
 Ejemplo:  
 
