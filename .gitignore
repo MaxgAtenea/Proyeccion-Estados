@@ -3,3 +3,6 @@
 
 # Ignore all Excel files
 *.xlsx
+
+# Ignore all PPTX files
+*.pptx
