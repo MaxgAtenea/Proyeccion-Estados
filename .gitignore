@@ -6,3 +6,6 @@
 
 # Ignore all PPTX files
 *.pptx
+
+# Ignore all PDF files
+*.pdf
